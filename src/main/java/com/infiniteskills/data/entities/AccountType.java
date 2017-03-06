@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+// make a small change 
 @Entity
 @Table(name = "ACCOUNT_TYPE")
 public class AccountType {
